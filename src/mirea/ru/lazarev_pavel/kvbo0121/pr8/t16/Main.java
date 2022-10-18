@@ -1,4 +1,4 @@
-package mirea.ru.lazarev_pavel.kvbo0121.pr8;
+package mirea.ru.lazarev_pavel.kvbo0121.pr8.t16;
 
 import java.util.Scanner;
 
